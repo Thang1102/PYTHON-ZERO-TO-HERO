@@ -28,3 +28,8 @@ thuong = a / b
 print(thuong) #So nay dang fload
 laydu = 10 % 3
 print(laydu)
+mi = min(3,1,2,5)
+print(mi) #in ra số nho nhat
+ma = max(3,4,9,6)
+print(ma) #in ra sô lớn nhất
+abs(-115)# lấy trị tuyệt đối
