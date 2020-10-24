@@ -1,2 +1,2 @@
 # python
-python code-vncs
+python code from Zezo to Hero
